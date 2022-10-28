@@ -1,6 +1,5 @@
 import {useState, useEffect, useRef} from "react";
 
-
 function SearchProduct() {
   
   const [products, setProducts] = useState([])
